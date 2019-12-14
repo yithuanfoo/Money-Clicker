@@ -1,0 +1,97 @@
+
+#A{
+	width: 22%;
+    height: 100%;
+    float: left;
+	border: solid 5px brown;
+}
+
+
+#Money{
+		width: 100%;
+		top:35%;
+		position:relative;
+		
+	
+}
+
+#Board{
+	    width: 47%;
+    /* left: 25%; */
+    position: relative;
+    float: left;
+    height: 100%;
+	border: dashed 5px saddlebrown;
+	text-align: center;
+}
+
+
+#C{
+	        width: 22%;
+    /* left: 75%; */
+    /* position: relative; */
+    float: left;
+    height: 100%;
+	border: solid 5px brown;
+	
+}
+
+#Store{
+		font-size: 3em;
+}
+
+#upgrades{
+		height:20%;
+}
+
+
+#accountants > img{
+	width:25%;
+}
+
+#items > *{
+	background-color:#aaab6e;
+	display:none;
+}
+
+
+#presidents > img{
+	width:100%;
+	}
+
+#clerks > img{
+	width:20%;
+	}
+
+#managers > img{
+	width:30%;
+	}
+
+
+
+.productroleimg{
+    padding: 10px;
+    margin: 20px;
+    border: solid 2px green;
+    width: 100px;
+	vertical-align: middle;
+	
+}
+.producttext{
+	    vertical-align: middle;
+		color:white;
+		font-size:20pt;
+		
+}
+
+.boardroleimg{
+	
+    width: 50px;
+	
+}
+
+.cost{
+    color: aquamarine;
+    font-weight: 800;
+    font-size: 1.2em;
+}
